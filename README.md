@@ -12,6 +12,5 @@ A simple prototype platformer game where you accidentally fall under the ground 
 - Game Maker
 
 ## Notes:
-- Prototype created for the Ember Game Jam 2026
 - This game may get updates in the future
 - Also, my first game :)
